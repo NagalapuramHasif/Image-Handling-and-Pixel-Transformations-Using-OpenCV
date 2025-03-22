@@ -31,8 +31,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** VIGNESH.V
-- **Register Number:** 212223230241
+- **Name:** NAGALAPURAM HASIF
+- **Register Number:** 212223100036
 
   ### Ex. No. 01
 
@@ -341,5 +341,5 @@ plt.show()
 
 
 ## Result:
-Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program..
+Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
